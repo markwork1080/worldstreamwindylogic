@@ -29,7 +29,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # -- Options for HTML output -------------------------------------------------
 
 html_theme = 'alabaster'
-html_title = "Alexa! How to Complete Windstream Email Login, Sign In & Account Recovery"
+html_title = "Windstream.net Email Login & Kinetic by Windstream Sign In — A Simple Guide to Webmail Access"
 
 # You can still add html_meta here if you want, but with the new Read the Docs addons
 # custom template is the reliable way to inject meta tags.
